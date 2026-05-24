@@ -2,7 +2,7 @@
 
 A full-stack inventory reservation system built with Next.js 14, Prisma, and PostgreSQL. Solves the double-booking race condition at checkout using database-level row locking.
 
-**Live Demo:** https://allo-inventory-73aja1fkl-thirusprojects.vercel.app
+**Live Demo:** https://allo-inventory-ajx4ofee2-thirusprojects.vercel.app
 
 ## The Problem
 
